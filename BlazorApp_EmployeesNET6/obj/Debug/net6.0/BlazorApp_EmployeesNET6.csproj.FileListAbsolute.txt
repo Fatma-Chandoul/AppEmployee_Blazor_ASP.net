@@ -1,0 +1,69 @@
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.staticwebassets.runtime.json
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.exe
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.deps.json
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.runtimeconfig.json
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.dll
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.pdb
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.AssemblyInfo.cs
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\scopedcss\bundle\BlazorApp_EmployeesNET6.styles.css
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\scopedcss\projectbundle\BlazorApp_EmployeesNET6.bundle.scp.css
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.dll
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\ref\BlazorApp_EmployeesNET6.dll
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.pdb
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.genruntimeconfig.cache
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\Models.dll
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\Models.pdb
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.csproj.CopyComplete
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\staticwebassets\msbuild.BlazorApp_EmployeesNET6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorApp_EmployeesNET6.props
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp_EmployeesNET6.props
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorApp_EmployeesNET6.props
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\ASP.NET Core 2022 IPSAS\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\refint\BlazorApp_EmployeesNET6.dll
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\appsettings.json
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.staticwebassets.runtime.json
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.exe
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.deps.json
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.runtimeconfig.json
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.dll
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\BlazorApp_EmployeesNET6.pdb
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\Models.dll
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\bin\Debug\net6.0\Models.pdb
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.csproj.AssemblyReference.cache
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.AssemblyInfoInputs.cache
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.AssemblyInfo.cs
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.csproj.CoreCompileInputs.cache
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.RazorAssemblyInfo.cache
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.RazorAssemblyInfo.cs
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\scopedcss\bundle\BlazorApp_EmployeesNET6.styles.css
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\scopedcss\projectbundle\BlazorApp_EmployeesNET6.bundle.scp.css
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.csproj.CopyComplete
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.dll
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\refint\BlazorApp_EmployeesNET6.dll
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.pdb
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\BlazorApp_EmployeesNET6.genruntimeconfig.cache
+C:\Users\Fatma\source\repos\BlazorApp_EmployeesNET6\BlazorApp_EmployeesNET6\obj\Debug\net6.0\ref\BlazorApp_EmployeesNET6.dll
